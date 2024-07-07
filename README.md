@@ -37,6 +37,6 @@
 <table>
   <tr>
      <td align="center"><a href="https://github.com/Kidongg"><img src="https://firebasestorage.googleapis.com/v0/b/blog-a27f7.appspot.com/o/images%2Fprofile.png?alt=media&token=bf90b865-68b3-41e0-8047-03d837c6b2d9" width="100px;" alt=""/><br /><sub><b>KIDONG</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/bomlang"><img src="https://firebasestorage.googleapis.com/v0/b/blog-a27f7.appspot.com/o/images%2Fhori.png?alt=media&token=e2389b2f-5a44-4f7e-969e-aebc5a3c925e" width="100px;" alt=""/><br /><sub><b>호리</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/bomlang"><img src="https://firebasestorage.googleapis.com/v0/b/blog-a27f7.appspot.com/o/images%2Fhori.png?alt=media&token=e2389b2f-5a44-4f7e-969e-aebc5a3c925e" width="75px;" alt=""/><br /><sub><b>호리</b></sub></a><br /></td>
   </tr>
 </table>
