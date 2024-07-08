@@ -36,7 +36,7 @@
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/Kidongg" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/picspot-2e239.appspot.com/o/images%2Fkidong.png?alt=media&token=374a9faa-e47d-4eb3-9137-2c7be7711809" width="100px;" alt=""/><br /><sub><b>KIDONG</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/bomlang" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/picspot-2e239.appspot.com/o/images%2Fhori.png?alt=media&token=13a319f7-dab4-401c-b00c-a5da01ed9188" width="100px;" alt=""/><br /><sub><b>호리</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/Kidongg"><img src="https://firebasestorage.googleapis.com/v0/b/picspot-2e239.appspot.com/o/images%2Fkidong.png?alt=media&token=374a9faa-e47d-4eb3-9137-2c7be7711809" width="100px;" alt=""/><br /><sub><b>KIDONG</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/bomlang"><img src="https://firebasestorage.googleapis.com/v0/b/picspot-2e239.appspot.com/o/images%2Fhori.png?alt=media&token=13a319f7-dab4-401c-b00c-a5da01ed9188" width="100px;" alt=""/><br /><sub><b>호리</b></sub></a><br /></td>
   </tr>
 </table>
