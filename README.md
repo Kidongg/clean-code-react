@@ -23,8 +23,8 @@
 ## ✅ 진행 상황
 
 - [x] 7월 1주차 : 오리엔테이션
-- [ ] 7월 2주차 : Overview, State
-- [ ] 7월 3주차 : State
+- [x] 7월 2주차 : Overview, State
+- [x] 7월 3주차 : State
 - [ ] 7월 4주차 : Props
 - [ ] 7월 5주차 : Props, Components
 - [ ] 8월 1주차 : Rendering, Hooks
