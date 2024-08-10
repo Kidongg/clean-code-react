@@ -27,7 +27,7 @@
 - [x] 7월 3주차 : State
 - [x] 7월 4주차 : Props
 - [x] 7월 5주차 : Props, Components
-- [ ] 8월 1주차 : Rendering, Hooks
+- [x] 8월 1주차 : Rendering, Hooks
 - [ ] 8월 2주차 : Hooks, Etc
 - [ ] 8월 3주차 : React 생태계 흐름 읽기
 - [ ] 8월 4주차 : React 생태계 흐름 읽기
